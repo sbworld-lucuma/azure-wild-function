@@ -23,7 +23,7 @@ https://sbworld-wildcard.azurewebsites.net/api/{*fullPath}?code=uJw9kzauvZaf0NVO
 Samples: 
 
 * https://sbworld-wildcard.azurewebsites.net/api/picsum/1?code=uJw9kzauvZaf0NVOqruuPLkJW8ravEkA9qfHAaf46XHsN56NhmRK1w==
-* https://sbworld-wildcard.azurewebsites.net/api/cat/facts/1?code=uJw9kzauvZaf0NVOqruuPLkJW8ravEkA9qfHAaf46XHsN56NhmRK1w==
+* https://sbworld-wildcard.azurewebsites.net/api/cat/facts/?code=uJw9kzauvZaf0NVOqruuPLkJW8ravEkA9qfHAaf46XHsN56NhmRK1w==
 * https://sbworld-wildcard.azurewebsites.net/api/dog/random?code=uJw9kzauvZaf0NVOqruuPLkJW8ravEkA9qfHAaf46XHsN56NhmRK1w==
 * https://sbworld-wildcard.azurewebsites.net/api/nasa?code=uJw9kzauvZaf0NVOqruuPLkJW8ravEkA9qfHAaf46XHsN56NhmRK1w==
 

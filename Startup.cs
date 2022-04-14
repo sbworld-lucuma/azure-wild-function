@@ -45,10 +45,7 @@ public class WildServices : Service
     public object Get(CatFactRequest req) => "https://cat-fact.herokuapp.com/facts".GetJsonFromUrl();
     public object Get(DogRandomRequest req) => "https://dog.ceo/api/breeds/image/random".GetJsonFromUrl();
     public object Get(PicsumRequest req) => $"https://picsum.photos/id/{req.Id}/info".GetJsonFromUrl();
-
     public object Get(NasaRequest req) => $"https://api.nasa.gov/planetary/apod?api_key={_appSetting.Get<string>("Keys:Nasa")}".GetJsonFromUrl();
-        //N0tdchC2gS1ZagKlvrAE3KakZH0erpLYAsCwq89Q
-
 
 }
 public class AppHost: AppHostBase
